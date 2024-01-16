@@ -1,0 +1,10 @@
+nav {
+	background-color: red;
+	width: 300px;
+	height: 300px;
+	float: left;
+}
+
+a.active {
+	color: green;
+}

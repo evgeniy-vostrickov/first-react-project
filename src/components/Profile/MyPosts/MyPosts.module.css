@@ -1,0 +1,4 @@
+/* не показывать обводку в состоянии focus */
+input:focus, textarea:focus {
+        outline:none;
+}
